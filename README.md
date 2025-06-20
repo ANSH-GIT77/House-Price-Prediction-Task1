@@ -62,10 +62,10 @@ This project was done as part of the **Prodigy InfoTech Internship** (Machine Le
 
 🙋‍♂️ About Me
 
-👨‍💻 Ansh Nimbalkar**  
+👨‍💻 Ansh Nimbalkar
 🎓 B.Tech CSE (AI & Edge Computing)  
 🌱 Passionate about AI, ML & Data Science  
-📫 [LinkedIn Profile](https://www.linkedin.com/) *(Replace with your actual profile)*
+📫 LinkedIn - www.linkedin.com/in/ansh-nimbalkar-93b3a82b0
 
 
 ## 📌 Dataset Reference
